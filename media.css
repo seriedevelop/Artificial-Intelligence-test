@@ -1,10 +1,3 @@
-@media (max-width: 1919px) {
-
-    .container {
-        box-sizing: border-box;
-    }
-}
-
 @media (max-width: 1440px) {
 
     [class$="__grid-container"]:not(.footer__grid-container) {
@@ -274,4 +267,5 @@
     .footer__grid-container {
         gap: 60px;
     }
+
 }
